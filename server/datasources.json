@@ -1,0 +1,16 @@
+{
+  "petceteradb": {
+    "name": "petceteradb",
+    "connector": "mssql",
+    "host": "inf370deploy.database.windows.net",
+    "port": 1433,
+    "database": "petcetera",
+    "username": "inf370",
+    "password": "Petcetera123",
+    "encrypt": true
+  },
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  }
+}
